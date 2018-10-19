@@ -1,0 +1,2350 @@
+[
+  {
+    "title": 1,
+    "backgroundSize": 2,
+    "backgroundImage": 3,
+    "backgroundColor": 4,
+    "backgroundRepeat": 5,
+    "height": 6,
+    "width": 7,
+    "className": 8,
+    "repeatId": 9,
+    "repeatGroup": 10,
+    "$loaded": 11,
+    "$dragOver": 12,
+    "top": 13,
+    "elements": 14,
+    "customData": 1044,
+    "alias": 1046,
+    "maskElements": 1047,
+    "nextLayoutIndex": 1048,
+    "moduleIndex": 1049,
+    "$id": 1050,
+    "$distance": 1051
+  },
+  "产品信息",
+  null,
+  null,
+  "#ffffffff",
+  "no-repeat",
+  329.0000000000001,
+  790,
+  " layout-current layout-current element-selected layout-current element-selected",
+  null,
+  "产品信息-2-1539929909916-1539929906984",
+  true,
+  false,
+  1256,
+  [
+    15,
+    107,
+    198,
+    770,
+    861,
+    952
+  ],
+  {
+    "transform": 16,
+    "type": 49,
+    "category": 50,
+    "opacity": 52,
+    "padding": 53,
+    "width": 58,
+    "height": 59,
+    "left": 60,
+    "top": 61,
+    "boxShadow": 62,
+    "resize": 63,
+    "dragable": 64,
+    "rotatable": 65,
+    "editable": 66,
+    "frozen": 67,
+    "hidden": 68,
+    "lock": 69,
+    "borderRadius": 70,
+    "filter": 71,
+    "$id": 76,
+    "$loaded": 77,
+    "$selected": 78,
+    "$editing": 79,
+    "$draging": 80,
+    "$guider": 81,
+    "$getDragLimit": 84,
+    "$getResizeLimit": 85,
+    "$dragLimit": 86,
+    "$resizeLimit": 87,
+    "color": 88,
+    "backgroundColor": 89,
+    "fontFamily": 90,
+    "fontStyle": 91,
+    "fontWeight": 92,
+    "fontSize": 93,
+    "lineHeight": 94,
+    "letterSpacing": 95,
+    "textDecoration": 96,
+    "writingMode": 97,
+    "textAlign": 98,
+    "verticalAlign": 99,
+    "content": 100,
+    "textShadow": 101,
+    "autoScale": 102,
+    "textEffects": 103,
+    "style": 104,
+    "clip": 105,
+    "version": 106
+  },
+  {
+    "_worldID": 17,
+    "localTransform": 18,
+    "position": 26,
+    "scale": 29,
+    "skew": 32,
+    "pivot": 39,
+    "_rotation": 42,
+    "_sr": 43,
+    "_cr": 44,
+    "_cy": 45,
+    "_sy": 46,
+    "_nsx": 47,
+    "_cx": 48
+  },
+  0,
+  {
+    "a": 19,
+    "b": 20,
+    "c": 21,
+    "d": 22,
+    "tx": 23,
+    "ty": 24,
+    "array": 25
+  },
+  1,
+  0,
+  0,
+  1,
+  0,
+  0,
+  null,
+  {
+    "x": 27,
+    "y": 28
+  },
+  0,
+  0,
+  {
+    "x": 30,
+    "y": 31
+  },
+  1,
+  1,
+  {
+    "_x": 33,
+    "_y": 34,
+    "cb": 35,
+    "scope": 16
+  },
+  0,
+  0,
+  {
+    "_custom": 36
+  },
+  {
+    "type": 37,
+    "display": 38
+  },
+  "function",
+  "<span>ƒ</span> ()",
+  {
+    "x": 40,
+    "y": 41
+  },
+  0,
+  0,
+  0,
+  0,
+  1,
+  1,
+  0,
+  0,
+  1,
+  "text",
+  {
+    "isOpenTags": 51
+  },
+  false,
+  1,
+  [
+    54,
+    55,
+    56,
+    57
+  ],
+  0,
+  0,
+  0,
+  0,
+  111,
+  84,
+  19.64414414414415,
+  61.88323761401034,
+  null,
+  7,
+  true,
+  true,
+  true,
+  false,
+  false,
+  false,
+  0,
+  {
+    "hueRotate": 72,
+    "saturate": 73,
+    "brightness": 74,
+    "gaussianBlur": 75
+  },
+  0,
+  0,
+  0,
+  0,
+  8,
+  true,
+  false,
+  false,
+  false,
+  {
+    "show": 82,
+    "snapTo": 83
+  },
+  true,
+  true,
+  null,
+  null,
+  false,
+  false,
+  "rgba(34,34,34,1)",
+  null,
+  "MicrosoftYaHei",
+  "normal",
+  400,
+  17.9,
+  1.89,
+  0,
+  "none",
+  "horizontal-tb",
+  "left",
+  "top",
+  "产品信息：",
+  null,
+  false,
+  [],
+  {},
+  null,
+  "5.3.29",
+  {
+    "transform": 108,
+    "type": 141,
+    "category": 142,
+    "opacity": 143,
+    "padding": 144,
+    "width": 149,
+    "height": 150,
+    "left": 151,
+    "top": 152,
+    "boxShadow": 153,
+    "resize": 154,
+    "dragable": 155,
+    "rotatable": 156,
+    "editable": 157,
+    "frozen": 158,
+    "hidden": 159,
+    "lock": 160,
+    "borderRadius": 161,
+    "filter": 162,
+    "$id": 167,
+    "$loaded": 168,
+    "$selected": 169,
+    "$editing": 170,
+    "$draging": 171,
+    "$guider": 172,
+    "$getDragLimit": 175,
+    "$getResizeLimit": 176,
+    "$dragLimit": 177,
+    "$resizeLimit": 178,
+    "color": 179,
+    "backgroundColor": 180,
+    "fontFamily": 181,
+    "fontStyle": 182,
+    "fontWeight": 183,
+    "fontSize": 184,
+    "lineHeight": 185,
+    "letterSpacing": 186,
+    "textDecoration": 187,
+    "writingMode": 188,
+    "textAlign": 189,
+    "verticalAlign": 190,
+    "content": 191,
+    "textShadow": 192,
+    "autoScale": 193,
+    "textEffects": 194,
+    "style": 195,
+    "clip": 196,
+    "version": 197
+  },
+  {
+    "_worldID": 109,
+    "localTransform": 110,
+    "position": 118,
+    "scale": 121,
+    "skew": 124,
+    "pivot": 131,
+    "_rotation": 134,
+    "_sr": 135,
+    "_cr": 136,
+    "_cy": 137,
+    "_sy": 138,
+    "_nsx": 139,
+    "_cx": 140
+  },
+  0,
+  {
+    "a": 111,
+    "b": 112,
+    "c": 113,
+    "d": 114,
+    "tx": 115,
+    "ty": 116,
+    "array": 117
+  },
+  1,
+  0,
+  0,
+  1,
+  0,
+  0,
+  null,
+  {
+    "x": 119,
+    "y": 120
+  },
+  0,
+  0,
+  {
+    "x": 122,
+    "y": 123
+  },
+  1,
+  1,
+  {
+    "_x": 125,
+    "_y": 126,
+    "cb": 127,
+    "scope": 108
+  },
+  0,
+  0,
+  {
+    "_custom": 128
+  },
+  {
+    "type": 129,
+    "display": 130
+  },
+  "function",
+  "<span>ƒ</span> ()",
+  {
+    "x": 132,
+    "y": 133
+  },
+  0,
+  0,
+  0,
+  0,
+  1,
+  1,
+  0,
+  0,
+  1,
+  "text",
+  "",
+  1,
+  [
+    145,
+    146,
+    147,
+    148
+  ],
+  0,
+  0,
+  0,
+  0,
+  403,
+  32.61016844868272,
+  30.49995228510079,
+  7.999999334007725,
+  null,
+  7,
+  true,
+  true,
+  true,
+  false,
+  false,
+  false,
+  0,
+  {
+    "hueRotate": 163,
+    "saturate": 164,
+    "brightness": 165,
+    "gaussianBlur": 166
+  },
+  0,
+  0,
+  0,
+  0,
+  9,
+  true,
+  false,
+  false,
+  false,
+  {
+    "show": 173,
+    "snapTo": 174
+  },
+  true,
+  true,
+  null,
+  null,
+  false,
+  false,
+  "rgba(34,34,34,1)",
+  null,
+  "MicrosoftYaHei",
+  "normal",
+  400,
+  30,
+  1.33,
+  0,
+  "none",
+  "horizontal-tb",
+  "center",
+  "top",
+  "PRODUCT INFORMATION - 商品信息",
+  null,
+  false,
+  [],
+  {},
+  null,
+  "5.3.29",
+  {
+    "transform": 199,
+    "type": 232,
+    "category": 233,
+    "opacity": 721,
+    "padding": 722,
+    "width": 727,
+    "height": 728,
+    "left": 729,
+    "top": 730,
+    "boxShadow": 731,
+    "resize": 732,
+    "dragable": 733,
+    "rotatable": 734,
+    "editable": 735,
+    "frozen": 736,
+    "hidden": 737,
+    "lock": 738,
+    "borderRadius": 739,
+    "filter": 740,
+    "$id": 745,
+    "$loaded": 746,
+    "$selected": 747,
+    "$editing": 748,
+    "$draging": 749,
+    "$guider": 750,
+    "$getDragLimit": 753,
+    "$getResizeLimit": 754,
+    "$dragLimit": 755,
+    "$resizeLimit": 756,
+    "url": 757,
+    "content": 758,
+    "colors": 759,
+    "containerTransform": 760,
+    "style": 761,
+    "clip": 762,
+    "version": 763,
+    "$content": 764,
+    "$snapValue": 765
+  },
+  {
+    "_worldID": 200,
+    "localTransform": 201,
+    "position": 209,
+    "scale": 212,
+    "skew": 215,
+    "pivot": 222,
+    "_rotation": 225,
+    "_sr": 226,
+    "_cr": 227,
+    "_cy": 228,
+    "_sy": 229,
+    "_nsx": 230,
+    "_cx": 231
+  },
+  0,
+  {
+    "a": 202,
+    "b": 203,
+    "c": 204,
+    "d": 205,
+    "tx": 206,
+    "ty": 207,
+    "array": 208
+  },
+  1,
+  0,
+  0,
+  1,
+  0,
+  0,
+  null,
+  {
+    "x": 210,
+    "y": 211
+  },
+  0,
+  0,
+  {
+    "x": 213,
+    "y": 214
+  },
+  1,
+  1,
+  {
+    "_x": 216,
+    "_y": 217,
+    "cb": 218,
+    "scope": 199
+  },
+  0,
+  0,
+  {
+    "_custom": 219
+  },
+  {
+    "type": 220,
+    "display": 221
+  },
+  "function",
+  "<span>ƒ</span> ()",
+  {
+    "x": 223,
+    "y": 224
+  },
+  0,
+  0,
+  0,
+  0,
+  1,
+  1,
+  0,
+  0,
+  1,
+  "svg",
+  {
+    "type": 234,
+    "categoryBackup": 235,
+    "elementBackup": 266,
+    "table": 269,
+    "isOpenTags": 720
+  },
+  "table",
+  {
+    "aiData": 236
+  },
+  {
+    "detail_type": 237,
+    "height": 238,
+    "is_close_up": 239,
+    "main_body_still": 240,
+    "main_body_up": 245,
+    "sma_type": 250,
+    "up_colors": 251,
+    "url": 264,
+    "width": 265
+  },
+  "pocket",
+  500,
+  true,
+  [
+    241,
+    242,
+    243,
+    244
+  ],
+  9,
+  16,
+  479,
+  493,
+  [
+    246,
+    247,
+    248,
+    249
+  ],
+  9,
+  16,
+  479,
+  493,
+  1,
+  [
+    252,
+    256,
+    260
+  ],
+  [
+    253,
+    254,
+    255
+  ],
+  252,
+  252,
+  252,
+  [
+    257,
+    258,
+    259
+  ],
+  218,
+  217,
+  217,
+  [
+    261,
+    262,
+    263
+  ],
+  180,
+  177,
+  176,
+  "//cjxq.oss.aliyuncs.com/cjxq/20180026-110103937-9449-1.png",
+  500,
+  {
+    "type": 267,
+    "url": 268
+  },
+  "image",
+  "//cjxq.oss.aliyuncs.com/cjxq/20180026-110103937-9449-1.png",
+  {
+    "template": 270,
+    "row": 271,
+    "column": 272,
+    "font": 273,
+    "tableBorder": 281,
+    "cellBorder": 285,
+    "colors": 293,
+    "originTableData": 294,
+    "styles": 714,
+    "type": 718,
+    "icons": 719
+  },
+  "<template>\n                    <span v-if='columnIndex === 0'\n                        :style='textStyle(fontColor[0], fontSize[0])'\n                    >{{cell.text}}</span>\n                    <span v-else\n                        :style='textStyle(fontColor[1], fontSize[1])'\n                    >{{cell.text}}</span>\n                </template>",
+  9,
+  2,
+  {
+    "family": 274,
+    "sizes": 275,
+    "colors": 278
+  },
+  "MicrosoftYaHei",
+  [
+    276,
+    277
+  ],
+  8,
+  8,
+  [
+    279,
+    280
+  ],
+  "#2ee89eff",
+  "#e64a19ff",
+  {
+    "width": 282,
+    "style": 283,
+    "color": 284
+  },
+  1,
+  "none",
+  "#333333ff",
+  {
+    "width": 286,
+    "style": 287,
+    "color": 288,
+    "showColumn": 289,
+    "showRow": 290,
+    "showColumnHeader": 291,
+    "showRowHeader": 292
+  },
+  1,
+  "solid",
+  "#333333ff",
+  true,
+  true,
+  true,
+  true,
+  [],
+  [
+    295,
+    302,
+    405,
+    508,
+    611
+  ],
+  [
+    296,
+    299
+  ],
+  {
+    "text": 297,
+    "checked": 298
+  },
+  "品  名：",
+  false,
+  {
+    "text": 300,
+    "checked": 301
+  },
+  "中长款毛呢大衣",
+  false,
+  [
+    303,
+    306,
+    309,
+    312,
+    315,
+    318,
+    321,
+    324,
+    327,
+    330,
+    333,
+    336,
+    339,
+    342,
+    345,
+    348,
+    351,
+    354,
+    357,
+    360,
+    363,
+    366,
+    369,
+    372,
+    375,
+    378,
+    381,
+    384,
+    387,
+    390,
+    393,
+    396,
+    399,
+    402
+  ],
+  {
+    "text": 304,
+    "checked": 305
+  },
+  "货  号：",
+  false,
+  {
+    "text": 307,
+    "checked": 308
+  },
+  "YLB123456789",
+  false,
+  {
+    "text": 310,
+    "checked": 311
+  },
+  "YLB123456789",
+  false,
+  {
+    "text": 313,
+    "checked": 314
+  },
+  "YLB123456789",
+  false,
+  {
+    "text": 316,
+    "checked": 317
+  },
+  "YLB123456789",
+  false,
+  {
+    "text": 319,
+    "checked": 320
+  },
+  "YLB123456789",
+  false,
+  {
+    "text": 322,
+    "checked": 323
+  },
+  "YLB123456789",
+  false,
+  {
+    "text": 325,
+    "checked": 326
+  },
+  "YLB123456789",
+  false,
+  {
+    "text": 328,
+    "checked": 329
+  },
+  "YLB123456789",
+  false,
+  {
+    "text": 331,
+    "checked": 332
+  },
+  "YLB123456789",
+  false,
+  {
+    "text": 334,
+    "checked": 335
+  },
+  "YLB123456789",
+  false,
+  {
+    "text": 337,
+    "checked": 338
+  },
+  "YLB123456789",
+  false,
+  {
+    "text": 340,
+    "checked": 341
+  },
+  "YLB123456789",
+  false,
+  {
+    "text": 343,
+    "checked": 344
+  },
+  "YLB123456789",
+  false,
+  {
+    "text": 346,
+    "checked": 347
+  },
+  "YLB123456789",
+  false,
+  {
+    "text": 349,
+    "checked": 350
+  },
+  "YLB123456789",
+  false,
+  {
+    "text": 352,
+    "checked": 353
+  },
+  "YLB123456789",
+  false,
+  {
+    "text": 355,
+    "checked": 356
+  },
+  "YLB123456789",
+  false,
+  {
+    "text": 358,
+    "checked": 359
+  },
+  "YLB123456789",
+  false,
+  {
+    "text": 361,
+    "checked": 362
+  },
+  "YLB123456789",
+  false,
+  {
+    "text": 364,
+    "checked": 365
+  },
+  "YLB123456789",
+  false,
+  {
+    "text": 367,
+    "checked": 368
+  },
+  "YLB123456789",
+  false,
+  {
+    "text": 370,
+    "checked": 371
+  },
+  "YLB123456789",
+  false,
+  {
+    "text": 373,
+    "checked": 374
+  },
+  "YLB123456789",
+  false,
+  {
+    "text": 376,
+    "checked": 377
+  },
+  "YLB123456789",
+  false,
+  {
+    "text": 379,
+    "checked": 380
+  },
+  "YLB123456789",
+  false,
+  {
+    "text": 382,
+    "checked": 383
+  },
+  "YLB123456789",
+  false,
+  {
+    "text": 385,
+    "checked": 386
+  },
+  "YLB123456789",
+  false,
+  {
+    "text": 388,
+    "checked": 389
+  },
+  "YLB123456789",
+  false,
+  {
+    "text": 391,
+    "checked": 392
+  },
+  "YLB123456789",
+  false,
+  {
+    "text": 394,
+    "checked": 395
+  },
+  "YLB123456789",
+  false,
+  {
+    "text": 397,
+    "checked": 398
+  },
+  "YLB123456789",
+  false,
+  {
+    "text": 400,
+    "checked": 401
+  },
+  "YLB123456789",
+  false,
+  {
+    "text": 403,
+    "checked": 404
+  },
+  "YLB123456789",
+  false,
+  [
+    406,
+    409,
+    412,
+    415,
+    418,
+    421,
+    424,
+    427,
+    430,
+    433,
+    436,
+    439,
+    442,
+    445,
+    448,
+    451,
+    454,
+    457,
+    460,
+    463,
+    466,
+    469,
+    472,
+    475,
+    478,
+    481,
+    484,
+    487,
+    490,
+    493,
+    496,
+    499,
+    502,
+    505
+  ],
+  {
+    "text": 407,
+    "checked": 408
+  },
+  "颜  色：",
+  false,
+  {
+    "text": 410,
+    "checked": 411
+  },
+  "黑色 红色 棕色",
+  false,
+  {
+    "text": 413,
+    "checked": 414
+  },
+  "黑色 红色 棕色",
+  false,
+  {
+    "text": 416,
+    "checked": 417
+  },
+  "黑色 红色 棕色",
+  false,
+  {
+    "text": 419,
+    "checked": 420
+  },
+  "黑色 红色 棕色",
+  false,
+  {
+    "text": 422,
+    "checked": 423
+  },
+  "黑色 红色 棕色",
+  false,
+  {
+    "text": 425,
+    "checked": 426
+  },
+  "黑色 红色 棕色",
+  false,
+  {
+    "text": 428,
+    "checked": 429
+  },
+  "黑色 红色 棕色",
+  false,
+  {
+    "text": 431,
+    "checked": 432
+  },
+  "黑色 红色 棕色",
+  false,
+  {
+    "text": 434,
+    "checked": 435
+  },
+  "黑色 红色 棕色",
+  false,
+  {
+    "text": 437,
+    "checked": 438
+  },
+  "黑色 红色 棕色",
+  false,
+  {
+    "text": 440,
+    "checked": 441
+  },
+  "黑色 红色 棕色",
+  false,
+  {
+    "text": 443,
+    "checked": 444
+  },
+  "黑色 红色 棕色",
+  false,
+  {
+    "text": 446,
+    "checked": 447
+  },
+  "黑色 红色 棕色",
+  false,
+  {
+    "text": 449,
+    "checked": 450
+  },
+  "黑色 红色 棕色",
+  false,
+  {
+    "text": 452,
+    "checked": 453
+  },
+  "黑色 红色 棕色",
+  false,
+  {
+    "text": 455,
+    "checked": 456
+  },
+  "黑色 红色 棕色",
+  false,
+  {
+    "text": 458,
+    "checked": 459
+  },
+  "黑色 红色 棕色",
+  false,
+  {
+    "text": 461,
+    "checked": 462
+  },
+  "黑色 红色 棕色",
+  false,
+  {
+    "text": 464,
+    "checked": 465
+  },
+  "黑色 红色 棕色",
+  false,
+  {
+    "text": 467,
+    "checked": 468
+  },
+  "黑色 红色 棕色",
+  false,
+  {
+    "text": 470,
+    "checked": 471
+  },
+  "黑色 红色 棕色",
+  false,
+  {
+    "text": 473,
+    "checked": 474
+  },
+  "黑色 红色 棕色",
+  false,
+  {
+    "text": 476,
+    "checked": 477
+  },
+  "黑色 红色 棕色",
+  false,
+  {
+    "text": 479,
+    "checked": 480
+  },
+  "黑色 红色 棕色",
+  false,
+  {
+    "text": 482,
+    "checked": 483
+  },
+  "黑色 红色 棕色",
+  false,
+  {
+    "text": 485,
+    "checked": 486
+  },
+  "黑色 红色 棕色",
+  false,
+  {
+    "text": 488,
+    "checked": 489
+  },
+  "黑色 红色 棕色",
+  false,
+  {
+    "text": 491,
+    "checked": 492
+  },
+  "黑色 红色 棕色",
+  false,
+  {
+    "text": 494,
+    "checked": 495
+  },
+  "黑色 红色 棕色",
+  false,
+  {
+    "text": 497,
+    "checked": 498
+  },
+  "黑色 红色 棕色",
+  false,
+  {
+    "text": 500,
+    "checked": 501
+  },
+  "黑色 红色 棕色",
+  false,
+  {
+    "text": 503,
+    "checked": 504
+  },
+  "黑色 红色 棕色",
+  false,
+  {
+    "text": 506,
+    "checked": 507
+  },
+  "黑色 红色 棕色",
+  false,
+  [
+    509,
+    512,
+    515,
+    518,
+    521,
+    524,
+    527,
+    530,
+    533,
+    536,
+    539,
+    542,
+    545,
+    548,
+    551,
+    554,
+    557,
+    560,
+    563,
+    566,
+    569,
+    572,
+    575,
+    578,
+    581,
+    584,
+    587,
+    590,
+    593,
+    596,
+    599,
+    602,
+    605,
+    608
+  ],
+  {
+    "text": 510,
+    "checked": 511
+  },
+  "吊牌价：",
+  false,
+  {
+    "text": 513,
+    "checked": 514
+  },
+  "¥7299.00",
+  false,
+  {
+    "text": 516,
+    "checked": 517
+  },
+  "¥7299.00",
+  false,
+  {
+    "text": 519,
+    "checked": 520
+  },
+  "¥7299.00",
+  false,
+  {
+    "text": 522,
+    "checked": 523
+  },
+  "¥7299.00",
+  false,
+  {
+    "text": 525,
+    "checked": 526
+  },
+  "¥7299.00",
+  false,
+  {
+    "text": 528,
+    "checked": 529
+  },
+  "¥7299.00",
+  false,
+  {
+    "text": 531,
+    "checked": 532
+  },
+  "¥7299.00",
+  false,
+  {
+    "text": 534,
+    "checked": 535
+  },
+  "¥7299.00",
+  false,
+  {
+    "text": 537,
+    "checked": 538
+  },
+  "¥7299.00",
+  false,
+  {
+    "text": 540,
+    "checked": 541
+  },
+  "¥7299.00",
+  false,
+  {
+    "text": 543,
+    "checked": 544
+  },
+  "¥7299.00",
+  false,
+  {
+    "text": 546,
+    "checked": 547
+  },
+  "¥7299.00",
+  false,
+  {
+    "text": 549,
+    "checked": 550
+  },
+  "¥7299.00",
+  false,
+  {
+    "text": 552,
+    "checked": 553
+  },
+  "¥7299.00",
+  false,
+  {
+    "text": 555,
+    "checked": 556
+  },
+  "¥7299.00",
+  false,
+  {
+    "text": 558,
+    "checked": 559
+  },
+  "¥7299.00",
+  false,
+  {
+    "text": 561,
+    "checked": 562
+  },
+  "¥7299.00",
+  false,
+  {
+    "text": 564,
+    "checked": 565
+  },
+  "¥7299.00",
+  false,
+  {
+    "text": 567,
+    "checked": 568
+  },
+  "¥7299.00",
+  false,
+  {
+    "text": 570,
+    "checked": 571
+  },
+  "¥7299.00",
+  false,
+  {
+    "text": 573,
+    "checked": 574
+  },
+  "¥7299.00",
+  false,
+  {
+    "text": 576,
+    "checked": 577
+  },
+  "¥7299.00",
+  false,
+  {
+    "text": 579,
+    "checked": 580
+  },
+  "¥7299.00",
+  false,
+  {
+    "text": 582,
+    "checked": 583
+  },
+  "¥7299.00",
+  false,
+  {
+    "text": 585,
+    "checked": 586
+  },
+  "¥7299.00",
+  false,
+  {
+    "text": 588,
+    "checked": 589
+  },
+  "¥7299.00",
+  false,
+  {
+    "text": 591,
+    "checked": 592
+  },
+  "¥7299.00",
+  false,
+  {
+    "text": 594,
+    "checked": 595
+  },
+  "¥7299.00",
+  false,
+  {
+    "text": 597,
+    "checked": 598
+  },
+  "¥7299.00",
+  false,
+  {
+    "text": 600,
+    "checked": 601
+  },
+  "¥7299.00",
+  false,
+  {
+    "text": 603,
+    "checked": 604
+  },
+  "¥7299.00",
+  false,
+  {
+    "text": 606,
+    "checked": 607
+  },
+  "¥7299.00",
+  false,
+  {
+    "text": 609,
+    "checked": 610
+  },
+  "¥7299.00",
+  false,
+  [
+    612,
+    615,
+    618,
+    621,
+    624,
+    627,
+    630,
+    633,
+    636,
+    639,
+    642,
+    645,
+    648,
+    651,
+    654,
+    657,
+    660,
+    663,
+    666,
+    669,
+    672,
+    675,
+    678,
+    681,
+    684,
+    687,
+    690,
+    693,
+    696,
+    699,
+    702,
+    705,
+    708,
+    711
+  ],
+  {
+    "text": 613,
+    "checked": 614
+  },
+  "面  料：",
+  false,
+  {
+    "text": 616,
+    "checked": 617
+  },
+  "88%羊毛 12%锦纶",
+  false,
+  {
+    "text": 619,
+    "checked": 620
+  },
+  "88%羊毛 12%锦纶",
+  false,
+  {
+    "text": 622,
+    "checked": 623
+  },
+  "88%羊毛 12%锦纶",
+  false,
+  {
+    "text": 625,
+    "checked": 626
+  },
+  "88%羊毛 12%锦纶",
+  false,
+  {
+    "text": 628,
+    "checked": 629
+  },
+  "88%羊毛 12%锦纶",
+  false,
+  {
+    "text": 631,
+    "checked": 632
+  },
+  "88%羊毛 12%锦纶",
+  false,
+  {
+    "text": 634,
+    "checked": 635
+  },
+  "88%羊毛 12%锦纶",
+  false,
+  {
+    "text": 637,
+    "checked": 638
+  },
+  "88%羊毛 12%锦纶",
+  false,
+  {
+    "text": 640,
+    "checked": 641
+  },
+  "88%羊毛 12%锦纶",
+  false,
+  {
+    "text": 643,
+    "checked": 644
+  },
+  "88%羊毛 12%锦纶",
+  false,
+  {
+    "text": 646,
+    "checked": 647
+  },
+  "88%羊毛 12%锦纶",
+  false,
+  {
+    "text": 649,
+    "checked": 650
+  },
+  "88%羊毛 12%锦纶",
+  false,
+  {
+    "text": 652,
+    "checked": 653
+  },
+  "88%羊毛 12%锦纶",
+  false,
+  {
+    "text": 655,
+    "checked": 656
+  },
+  "88%羊毛 12%锦纶",
+  false,
+  {
+    "text": 658,
+    "checked": 659
+  },
+  "88%羊毛 12%锦纶",
+  false,
+  {
+    "text": 661,
+    "checked": 662
+  },
+  "88%羊毛 12%锦纶",
+  false,
+  {
+    "text": 664,
+    "checked": 665
+  },
+  "88%羊毛 12%锦纶",
+  false,
+  {
+    "text": 667,
+    "checked": 668
+  },
+  "88%羊毛 12%锦纶",
+  false,
+  {
+    "text": 670,
+    "checked": 671
+  },
+  "88%羊毛 12%锦纶",
+  false,
+  {
+    "text": 673,
+    "checked": 674
+  },
+  "88%羊毛 12%锦纶",
+  false,
+  {
+    "text": 676,
+    "checked": 677
+  },
+  "88%羊毛 12%锦纶",
+  false,
+  {
+    "text": 679,
+    "checked": 680
+  },
+  "88%羊毛 12%锦纶",
+  false,
+  {
+    "text": 682,
+    "checked": 683
+  },
+  "88%羊毛 12%锦纶",
+  false,
+  {
+    "text": 685,
+    "checked": 686
+  },
+  "88%羊毛 12%锦纶",
+  false,
+  {
+    "text": 688,
+    "checked": 689
+  },
+  "88%羊毛 12%锦纶",
+  false,
+  {
+    "text": 691,
+    "checked": 692
+  },
+  "88%羊毛 12%锦纶",
+  false,
+  {
+    "text": 694,
+    "checked": 695
+  },
+  "88%羊毛 12%锦纶",
+  false,
+  {
+    "text": 697,
+    "checked": 698
+  },
+  "88%羊毛 12%锦纶",
+  false,
+  {
+    "text": 700,
+    "checked": 701
+  },
+  "88%羊毛 12%锦纶",
+  false,
+  {
+    "text": 703,
+    "checked": 704
+  },
+  "88%羊毛 12%锦纶",
+  false,
+  {
+    "text": 706,
+    "checked": 707
+  },
+  "88%羊毛 12%锦纶",
+  false,
+  {
+    "text": 709,
+    "checked": 710
+  },
+  "88%羊毛 12%锦纶",
+  false,
+  {
+    "text": 712,
+    "checked": 713
+  },
+  "88%羊毛 12%锦纶",
+  false,
+  {
+    "td": 715
+  },
+  {
+    "textAlign": 716,
+    "padding": 717
+  },
+  "left",
+  "10px",
+  "infos",
+  [],
+  false,
+  1,
+  [
+    723,
+    724,
+    725,
+    726
+  ],
+  0,
+  0,
+  0,
+  0,
+  596,
+  210,
+  135.4999522851008,
+  59.500000000000064,
+  null,
+  7,
+  true,
+  true,
+  true,
+  false,
+  false,
+  false,
+  0,
+  {
+    "hueRotate": 741,
+    "saturate": 742,
+    "brightness": 743,
+    "gaussianBlur": 744
+  },
+  0,
+  0,
+  0,
+  0,
+  10,
+  true,
+  false,
+  false,
+  false,
+  {
+    "show": 751,
+    "snapTo": 752
+  },
+  true,
+  true,
+  null,
+  null,
+  false,
+  false,
+  "//cjxq.oss.aliyuncs.com/cjxq/20180026-110431233-15-1.svg",
+  "<svg xmlns=\"http://www.w3.org/2000/svg\" style=\"width: 100%; height: 100%;\"><foreignObject width=\"100%\" height=\"100%\" style=\"width: 100%; height: 100%;\"><body xmlns=\"http://www.w3.org/1999/xhtml\" class=\"svg-table-element\" style=\"width: 100%; height: 100%; margin: 0px; padding: 0px;\"><div style=\"box-sizing: border-box; overflow: hidden; transform: scale(1); transform-origin: 0px 0px 0px; text-align: center; width: 596px; height: 210px; font-family: MicrosoftYaHei, Arial; padding: 5px;\"><table style=\"width: 100%; height: 100%; border-collapse: collapse; border-width: 1px; border-style: none; border-color: rgb(51, 51, 51);\"><tbody><tr><td style=\"position: relative; text-align: left; padding: 10px; border-bottom: 1px solid rgb(51, 51, 51); border-right: 1px solid rgb(51, 51, 51);\"><span style=\"display: inline-block; font-size: 12px; color: rgb(46, 232, 158); transform: scale(0.666667);\">品  名：</span></td><td style=\"position: relative; text-align: left; padding: 10px; border-bottom: 1px solid rgb(51, 51, 51);\"><span style=\"display: inline-block; font-size: 12px; color: rgb(230, 74, 25); transform: scale(0.666667);\">中长款毛呢大衣</span></td></tr><tr><td style=\"position: relative; text-align: left; padding: 10px; border-bottom: 1px solid rgb(51, 51, 51); border-right: 1px solid rgb(51, 51, 51);\"><span style=\"display: inline-block; font-size: 12px; color: rgb(46, 232, 158); transform: scale(0.666667);\">货  号：</span></td><td style=\"position: relative; text-align: left; padding: 10px; border-bottom: 1px solid rgb(51, 51, 51);\"><span style=\"display: inline-block; font-size: 12px; color: rgb(230, 74, 25); transform: scale(0.666667);\">YLB123456789</span></td></tr><tr><td style=\"position: relative; text-align: left; padding: 10px; border-bottom: 1px solid rgb(51, 51, 51); border-right: 1px solid rgb(51, 51, 51);\"><span style=\"display: inline-block; font-size: 12px; color: rgb(46, 232, 158); transform: scale(0.666667);\">颜  色：</span></td><td style=\"position: relative; text-align: left; padding: 10px; border-bottom: 1px solid rgb(51, 51, 51);\"><span style=\"display: inline-block; font-size: 12px; color: rgb(230, 74, 25); transform: scale(0.666667);\">黑色 红色 棕色</span></td></tr><tr><td style=\"position: relative; text-align: left; padding: 10px; border-bottom: 1px solid rgb(51, 51, 51); border-right: 1px solid rgb(51, 51, 51);\"><span style=\"display: inline-block; font-size: 12px; color: rgb(46, 232, 158); transform: scale(0.666667);\">吊牌价：</span></td><td style=\"position: relative; text-align: left; padding: 10px; border-bottom: 1px solid rgb(51, 51, 51);\"><span style=\"display: inline-block; font-size: 12px; color: rgb(230, 74, 25); transform: scale(0.666667);\">¥7299.00</span></td></tr><tr><td style=\"position: relative; text-align: left; padding: 10px; border-bottom: 1px solid rgb(51, 51, 51); border-right: 1px solid rgb(51, 51, 51);\"><span style=\"display: inline-block; font-size: 12px; color: rgb(46, 232, 158); transform: scale(0.666667);\">面  料：</span></td><td style=\"position: relative; text-align: left; padding: 10px; border-bottom: 1px solid rgb(51, 51, 51);\"><span style=\"display: inline-block; font-size: 12px; color: rgb(230, 74, 25); transform: scale(0.666667);\">88%羊毛 12%锦纶</span></td></tr><tr><td style=\"position: relative; text-align: left; padding: 10px; border-bottom: 1px solid rgb(51, 51, 51); border-right: 1px solid rgb(51, 51, 51);\"><span style=\"display: inline-block; font-size: 12px; color: rgb(46, 232, 158); transform: scale(0.666667);\">货  号：</span></td><td style=\"position: relative; text-align: left; padding: 10px; border-bottom: 1px solid rgb(51, 51, 51);\"><span style=\"display: inline-block; font-size: 12px; color: rgb(230, 74, 25); transform: scale(0.666667);\">YLB123456789</span></td></tr><tr><td style=\"position: relative; text-align: left; padding: 10px; border-bottom: 1px solid rgb(51, 51, 51); border-right: 1px solid rgb(51, 51, 51);\"><span style=\"display: inline-block; font-size: 12px; color: rgb(46, 232, 158); transform: scale(0.666667);\">颜  色：</span></td><td style=\"position: relative; text-align: left; padding: 10px; border-bottom: 1px solid rgb(51, 51, 51);\"><span style=\"display: inline-block; font-size: 12px; color: rgb(230, 74, 25); transform: scale(0.666667);\">黑色 红色 棕色</span></td></tr><tr><td style=\"position: relative; text-align: left; padding: 10px; border-bottom: 1px solid rgb(51, 51, 51); border-right: 1px solid rgb(51, 51, 51);\"><span style=\"display: inline-block; font-size: 12px; color: rgb(46, 232, 158); transform: scale(0.666667);\">吊牌价：</span></td><td style=\"position: relative; text-align: left; padding: 10px; border-bottom: 1px solid rgb(51, 51, 51);\"><span style=\"display: inline-block; font-size: 12px; color: rgb(230, 74, 25); transform: scale(0.666667);\">¥7299.00</span></td></tr><tr><td style=\"position: relative; text-align: left; padding: 10px; border-right: 1px solid rgb(51, 51, 51);\"><span style=\"display: inline-block; font-size: 12px; color: rgb(46, 232, 158); transform: scale(0.666667);\">面  料：</span></td><td style=\"position: relative; text-align: left; padding: 10px;\"><span style=\"display: inline-block; font-size: 12px; color: rgb(230, 74, 25); transform: scale(0.666667);\">88%羊毛 12%锦纶</span></td></tr></tbody></table></div></body></foreignObject></svg>",
+  [],
+  null,
+  {},
+  null,
+  "5.3.29",
+  "<svg xmlns=\"http://www.w3.org/2000/svg\" :width=\"width\" :height=\"height\"><foreignObject width=\"100%\" height=\"100%\" style=\"width: 100%; height: 100%;\"><body xmlns=\"http://www.w3.org/1999/xhtml\" class=\"svg-table-element\" style=\"width: 100%; height: 100%; margin: 0px; padding: 0px;\"><div style=\"box-sizing: border-box; overflow: hidden; transform: scale(1); transform-origin: 0px 0px 0px; text-align: center; width: 596px; height: 210px; font-family: MicrosoftYaHei, Arial; padding: 5px;\"><table style=\"width: 100%; height: 100%; border-collapse: collapse; border-width: 1px; border-style: none; border-color: rgb(51, 51, 51);\"><tbody><tr><td style=\"position: relative; text-align: left; padding: 10px; border-bottom: 1px solid rgb(51, 51, 51); border-right: 1px solid rgb(51, 51, 51);\"><span style=\"display: inline-block; font-size: 12px; color: rgb(46, 232, 158); transform: scale(0.666667);\">品  名：</span></td><td style=\"position: relative; text-align: left; padding: 10px; border-bottom: 1px solid rgb(51, 51, 51);\"><span style=\"display: inline-block; font-size: 12px; color: rgb(230, 74, 25); transform: scale(0.666667);\">中长款毛呢大衣</span></td></tr><tr><td style=\"position: relative; text-align: left; padding: 10px; border-bottom: 1px solid rgb(51, 51, 51); border-right: 1px solid rgb(51, 51, 51);\"><span style=\"display: inline-block; font-size: 12px; color: rgb(46, 232, 158); transform: scale(0.666667);\">货  号：</span></td><td style=\"position: relative; text-align: left; padding: 10px; border-bottom: 1px solid rgb(51, 51, 51);\"><span style=\"display: inline-block; font-size: 12px; color: rgb(230, 74, 25); transform: scale(0.666667);\">YLB123456789</span></td></tr><tr><td style=\"position: relative; text-align: left; padding: 10px; border-bottom: 1px solid rgb(51, 51, 51); border-right: 1px solid rgb(51, 51, 51);\"><span style=\"display: inline-block; font-size: 12px; color: rgb(46, 232, 158); transform: scale(0.666667);\">颜  色：</span></td><td style=\"position: relative; text-align: left; padding: 10px; border-bottom: 1px solid rgb(51, 51, 51);\"><span style=\"display: inline-block; font-size: 12px; color: rgb(230, 74, 25); transform: scale(0.666667);\">黑色 红色 棕色</span></td></tr><tr><td style=\"position: relative; text-align: left; padding: 10px; border-bottom: 1px solid rgb(51, 51, 51); border-right: 1px solid rgb(51, 51, 51);\"><span style=\"display: inline-block; font-size: 12px; color: rgb(46, 232, 158); transform: scale(0.666667);\">吊牌价：</span></td><td style=\"position: relative; text-align: left; padding: 10px; border-bottom: 1px solid rgb(51, 51, 51);\"><span style=\"display: inline-block; font-size: 12px; color: rgb(230, 74, 25); transform: scale(0.666667);\">¥7299.00</span></td></tr><tr><td style=\"position: relative; text-align: left; padding: 10px; border-bottom: 1px solid rgb(51, 51, 51); border-right: 1px solid rgb(51, 51, 51);\"><span style=\"display: inline-block; font-size: 12px; color: rgb(46, 232, 158); transform: scale(0.666667);\">面  料：</span></td><td style=\"position: relative; text-align: left; padding: 10px; border-bottom: 1px solid rgb(51, 51, 51);\"><span style=\"display: inline-block; font-size: 12px; color: rgb(230, 74, 25); transform: scale(0.666667);\">88%羊毛 12%锦纶</span></td></tr><tr><td style=\"position: relative; text-align: left; padding: 10px; border-bottom: 1px solid rgb(51, 51, 51); border-right: 1px solid rgb(51, 51, 51);\"><span style=\"display: inline-block; font-size: 12px; color: rgb(46, 232, 158); transform: scale(0.666667);\">货  号：</span></td><td style=\"position: relative; text-align: left; padding: 10px; border-bottom: 1px solid rgb(51, 51, 51);\"><span style=\"display: inline-block; font-size: 12px; color: rgb(230, 74, 25); transform: scale(0.666667);\">YLB123456789</span></td></tr><tr><td style=\"position: relative; text-align: left; padding: 10px; border-bottom: 1px solid rgb(51, 51, 51); border-right: 1px solid rgb(51, 51, 51);\"><span style=\"display: inline-block; font-size: 12px; color: rgb(46, 232, 158); transform: scale(0.666667);\">颜  色：</span></td><td style=\"position: relative; text-align: left; padding: 10px; border-bottom: 1px solid rgb(51, 51, 51);\"><span style=\"display: inline-block; font-size: 12px; color: rgb(230, 74, 25); transform: scale(0.666667);\">黑色 红色 棕色</span></td></tr><tr><td style=\"position: relative; text-align: left; padding: 10px; border-bottom: 1px solid rgb(51, 51, 51); border-right: 1px solid rgb(51, 51, 51);\"><span style=\"display: inline-block; font-size: 12px; color: rgb(46, 232, 158); transform: scale(0.666667);\">吊牌价：</span></td><td style=\"position: relative; text-align: left; padding: 10px; border-bottom: 1px solid rgb(51, 51, 51);\"><span style=\"display: inline-block; font-size: 12px; color: rgb(230, 74, 25); transform: scale(0.666667);\">¥7299.00</span></td></tr><tr><td style=\"position: relative; text-align: left; padding: 10px; border-right: 1px solid rgb(51, 51, 51);\"><span style=\"display: inline-block; font-size: 12px; color: rgb(46, 232, 158); transform: scale(0.666667);\">面  料：</span></td><td style=\"position: relative; text-align: left; padding: 10px;\"><span style=\"display: inline-block; font-size: 12px; color: rgb(230, 74, 25); transform: scale(0.666667);\">88%羊毛 12%锦纶</span></td></tr></tbody></table></div></body></foreignObject></svg>",
+  {
+    "width": 766,
+    "height": 767,
+    "left": 768,
+    "top": 769
+  },
+  0,
+  0,
+  -2.5000477148992104,
+  -2.0499042806769694,
+  {
+    "transform": 771,
+    "type": 804,
+    "category": 805,
+    "opacity": 806,
+    "padding": 807,
+    "width": 812,
+    "height": 813,
+    "left": 814,
+    "top": 815,
+    "boxShadow": 816,
+    "resize": 817,
+    "dragable": 818,
+    "rotatable": 819,
+    "editable": 820,
+    "frozen": 821,
+    "hidden": 822,
+    "lock": 823,
+    "borderRadius": 824,
+    "filter": 825,
+    "$id": 830,
+    "$loaded": 831,
+    "$selected": 832,
+    "$editing": 833,
+    "$draging": 834,
+    "$guider": 835,
+    "$getDragLimit": 838,
+    "$getResizeLimit": 839,
+    "$dragLimit": 840,
+    "$resizeLimit": 841,
+    "color": 842,
+    "backgroundColor": 843,
+    "fontFamily": 844,
+    "fontStyle": 845,
+    "fontWeight": 846,
+    "fontSize": 847,
+    "lineHeight": 848,
+    "letterSpacing": 849,
+    "textDecoration": 850,
+    "writingMode": 851,
+    "textAlign": 852,
+    "verticalAlign": 853,
+    "content": 854,
+    "textShadow": 855,
+    "autoScale": 856,
+    "textEffects": 857,
+    "style": 858,
+    "clip": 859,
+    "version": 860
+  },
+  {
+    "_worldID": 772,
+    "localTransform": 773,
+    "position": 781,
+    "scale": 784,
+    "skew": 787,
+    "pivot": 794,
+    "_rotation": 797,
+    "_sr": 798,
+    "_cr": 799,
+    "_cy": 800,
+    "_sy": 801,
+    "_nsx": 802,
+    "_cx": 803
+  },
+  0,
+  {
+    "a": 774,
+    "b": 775,
+    "c": 776,
+    "d": 777,
+    "tx": 778,
+    "ty": 779,
+    "array": 780
+  },
+  1,
+  0,
+  0,
+  1,
+  0,
+  0,
+  null,
+  {
+    "x": 782,
+    "y": 783
+  },
+  0,
+  0,
+  {
+    "x": 785,
+    "y": 786
+  },
+  1,
+  1,
+  {
+    "_x": 788,
+    "_y": 789,
+    "cb": 790,
+    "scope": 771
+  },
+  0,
+  0,
+  {
+    "_custom": 791
+  },
+  {
+    "type": 792,
+    "display": 793
+  },
+  "function",
+  "<span>ƒ</span> ()",
+  {
+    "x": 795,
+    "y": 796
+  },
+  0,
+  0,
+  0,
+  0,
+  1,
+  1,
+  0,
+  0,
+  1,
+  "text",
+  "",
+  0,
+  [
+    808,
+    809,
+    810,
+    811
+  ],
+  0,
+  0,
+  0,
+  0,
+  180,
+  48,
+  305,
+  150,
+  null,
+  4,
+  true,
+  true,
+  true,
+  true,
+  false,
+  false,
+  0,
+  {
+    "hueRotate": 826,
+    "saturate": 827,
+    "brightness": 828,
+    "gaussianBlur": 829
+  },
+  0,
+  0,
+  0,
+  0,
+  11,
+  true,
+  false,
+  false,
+  false,
+  {
+    "show": 836,
+    "snapTo": 837
+  },
+  true,
+  true,
+  null,
+  null,
+  false,
+  false,
+  "rgba(51,51,51,1)",
+  null,
+  "MicrosoftYaHei",
+  "normal",
+  400,
+  40,
+  1.2,
+  0,
+  "none",
+  "horizontal-tb",
+  "left",
+  "top",
+  "表格字体",
+  null,
+  false,
+  [],
+  {},
+  null,
+  "5.3.29",
+  {
+    "transform": 862,
+    "type": 895,
+    "category": 896,
+    "opacity": 897,
+    "padding": 898,
+    "width": 903,
+    "height": 904,
+    "left": 905,
+    "top": 906,
+    "boxShadow": 907,
+    "resize": 908,
+    "dragable": 909,
+    "rotatable": 910,
+    "editable": 911,
+    "frozen": 912,
+    "hidden": 913,
+    "lock": 914,
+    "borderRadius": 915,
+    "filter": 916,
+    "$id": 921,
+    "$loaded": 922,
+    "$selected": 923,
+    "$editing": 924,
+    "$draging": 925,
+    "$guider": 926,
+    "$getDragLimit": 929,
+    "$getResizeLimit": 930,
+    "$dragLimit": 931,
+    "$resizeLimit": 932,
+    "color": 933,
+    "backgroundColor": 934,
+    "fontFamily": 935,
+    "fontStyle": 936,
+    "fontWeight": 937,
+    "fontSize": 938,
+    "lineHeight": 939,
+    "letterSpacing": 940,
+    "textDecoration": 941,
+    "writingMode": 942,
+    "textAlign": 943,
+    "verticalAlign": 944,
+    "content": 945,
+    "textShadow": 946,
+    "autoScale": 947,
+    "textEffects": 948,
+    "style": 949,
+    "clip": 950,
+    "version": 951
+  },
+  {
+    "_worldID": 863,
+    "localTransform": 864,
+    "position": 872,
+    "scale": 875,
+    "skew": 878,
+    "pivot": 885,
+    "_rotation": 888,
+    "_sr": 889,
+    "_cr": 890,
+    "_cy": 891,
+    "_sy": 892,
+    "_nsx": 893,
+    "_cx": 894
+  },
+  0,
+  {
+    "a": 865,
+    "b": 866,
+    "c": 867,
+    "d": 868,
+    "tx": 869,
+    "ty": 870,
+    "array": 871
+  },
+  1,
+  0,
+  0,
+  1,
+  0,
+  0,
+  null,
+  {
+    "x": 873,
+    "y": 874
+  },
+  0,
+  0,
+  {
+    "x": 876,
+    "y": 877
+  },
+  1,
+  1,
+  {
+    "_x": 879,
+    "_y": 880,
+    "cb": 881,
+    "scope": 862
+  },
+  0,
+  0,
+  {
+    "_custom": 882
+  },
+  {
+    "type": 883,
+    "display": 884
+  },
+  "function",
+  "<span>ƒ</span> ()",
+  {
+    "x": 886,
+    "y": 887
+  },
+  0,
+  0,
+  0,
+  0,
+  1,
+  1,
+  0,
+  0,
+  1,
+  "text",
+  "",
+  0,
+  [
+    899,
+    900,
+    901,
+    902
+  ],
+  0,
+  0,
+  0,
+  0,
+  180,
+  48,
+  305,
+  150,
+  null,
+  4,
+  true,
+  true,
+  true,
+  true,
+  false,
+  false,
+  0,
+  {
+    "hueRotate": 917,
+    "saturate": 918,
+    "brightness": 919,
+    "gaussianBlur": 920
+  },
+  0,
+  0,
+  0,
+  0,
+  12,
+  true,
+  false,
+  false,
+  false,
+  {
+    "show": 927,
+    "snapTo": 928
+  },
+  true,
+  true,
+  null,
+  null,
+  false,
+  false,
+  "rgba(51,51,51,1)",
+  null,
+  "MicrosoftYaHei",
+  "normal",
+  400,
+  40,
+  1.2,
+  0,
+  "none",
+  "horizontal-tb",
+  "left",
+  "top",
+  "表格字体",
+  null,
+  false,
+  [],
+  {},
+  null,
+  "5.3.29",
+  {
+    "transform": 953,
+    "type": 986,
+    "category": 987,
+    "opacity": 988,
+    "padding": 989,
+    "width": 994,
+    "height": 995,
+    "left": 996,
+    "top": 997,
+    "boxShadow": 998,
+    "resize": 999,
+    "dragable": 1000,
+    "rotatable": 1001,
+    "editable": 1002,
+    "frozen": 1003,
+    "hidden": 1004,
+    "lock": 1005,
+    "borderRadius": 1006,
+    "filter": 1007,
+    "$id": 1012,
+    "$loaded": 1013,
+    "$selected": 1014,
+    "$editing": 1015,
+    "$draging": 1016,
+    "$guider": 1017,
+    "$getDragLimit": 1020,
+    "$getResizeLimit": 1021,
+    "$dragLimit": 1022,
+    "$resizeLimit": 1023,
+    "color": 1024,
+    "backgroundColor": 1025,
+    "fontFamily": 1026,
+    "fontStyle": 1027,
+    "fontWeight": 1028,
+    "fontSize": 1029,
+    "lineHeight": 1030,
+    "letterSpacing": 1031,
+    "textDecoration": 1032,
+    "writingMode": 1033,
+    "textAlign": 1034,
+    "verticalAlign": 1035,
+    "content": 1036,
+    "textShadow": 1037,
+    "autoScale": 1038,
+    "textEffects": 1039,
+    "style": 1040,
+    "clip": 1041,
+    "family": 1042,
+    "version": 1043
+  },
+  {
+    "_worldID": 954,
+    "localTransform": 955,
+    "position": 963,
+    "scale": 966,
+    "skew": 969,
+    "pivot": 976,
+    "_rotation": 979,
+    "_sr": 980,
+    "_cr": 981,
+    "_cy": 982,
+    "_sy": 983,
+    "_nsx": 984,
+    "_cx": 985
+  },
+  0,
+  {
+    "a": 956,
+    "b": 957,
+    "c": 958,
+    "d": 959,
+    "tx": 960,
+    "ty": 961,
+    "array": 962
+  },
+  1,
+  0,
+  0,
+  1,
+  0,
+  0,
+  null,
+  {
+    "x": 964,
+    "y": 965
+  },
+  0,
+  0,
+  {
+    "x": 967,
+    "y": 968
+  },
+  1,
+  1,
+  {
+    "_x": 970,
+    "_y": 971,
+    "cb": 972,
+    "scope": 953
+  },
+  0,
+  0,
+  {
+    "_custom": 973
+  },
+  {
+    "type": 974,
+    "display": 975
+  },
+  "function",
+  "<span>ƒ</span> ()",
+  {
+    "x": 977,
+    "y": 978
+  },
+  0,
+  0,
+  0,
+  0,
+  1,
+  1,
+  0,
+  0,
+  1,
+  "text",
+  "",
+  0,
+  [
+    990,
+    991,
+    992,
+    993
+  ],
+  0,
+  0,
+  0,
+  0,
+  84,
+  19,
+  353,
+  142.50000000000006,
+  null,
+  4,
+  true,
+  true,
+  true,
+  true,
+  false,
+  false,
+  0,
+  {
+    "hueRotate": 1008,
+    "saturate": 1009,
+    "brightness": 1010,
+    "gaussianBlur": 1011
+  },
+  0,
+  0,
+  0,
+  0,
+  13,
+  true,
+  false,
+  false,
+  false,
+  {
+    "show": 1018,
+    "snapTo": 1019
+  },
+  true,
+  true,
+  null,
+  null,
+  false,
+  false,
+  "rgba(0,0,0,1)",
+  null,
+  "MicrosoftYaHei",
+  "normal",
+  400,
+  16,
+  1.2,
+  0,
+  "none",
+  "horizontal-tb",
+  "left",
+  "top",
+  "表格字体",
+  null,
+  false,
+  [],
+  {},
+  null,
+  "initial",
+  "5.3.29",
+  {
+    "loopType": 1045
+  },
+  "loop",
+  "产品信息",
+  [],
+  1,
+  1,
+  7,
+  -141
+]
