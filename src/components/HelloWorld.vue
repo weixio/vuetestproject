@@ -7,6 +7,7 @@
         <!--<div>count: {{count}}</div>-->
         <Comleft></Comleft>
         <Comright></Comright>
+        <!--<Vuedraggable></Vuedraggable>-->
     </div>
 </template>
 
@@ -17,6 +18,7 @@
     import Rx from 'rxjs/Rx';
     import Comleft from './Comleft'
     import Comright from './Comright'
+    import Vuedraggable from './Vuedraggable'
 
     export default {
         name: 'HelloWorld',
@@ -41,8 +43,23 @@
 //            this.test6();
 //            this.test7();
 //            this.test8()
+//             this.test_flatMap();
         },
         methods: {
+            test_flatMap(){
+
+                Rx.Observable.interval(1000).take(10)
+                    .flatMap(n => Observable.timer(500).map(() => n))
+                    .subscribe(x=>{
+                    console.log(x);
+                });
+                // stream
+                //     .flatMap(n => Observable.timer(500)
+                //     .map(() => n))
+                //     .subscribe(x=>{
+                //         console.log(x);
+                //     })
+            },
             dianji(){
                 this.$store.commit('increment')
             },
