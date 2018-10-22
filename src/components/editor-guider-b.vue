@@ -15,7 +15,7 @@
     const HIDE_OFFSET = -10;
 
     export default {
-        name: 'editor-guider',
+        name: 'editor-guider-b',
         props: ['global', 'layout'],
         data() {
             return {

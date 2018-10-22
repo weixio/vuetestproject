@@ -1,17 +1,14 @@
 <template>
     <div class="movehelpline">
-        <div
-                :style="getMoverStyle"
-                class="mover"
-                @mousedown="down"
-                @mousemove="move"
-                @mouseout="up"
-        />
-        <!--<EditorGuider-->
-        <!--:layout="currentLayout"-->
-        <!--:global="global"-->
-        <!--&gt;-->
-        <!--</EditorGuider>-->
+        <div class="mover" />
+        <div class="mover1" />
+        <div class="mover2" />
+
+        <editor-guilder
+            :layout="currentLayout"
+            :container="container"
+        >
+        </editor-guilder>
     </div>
 </template>
 
@@ -26,12 +23,13 @@
      *
      */
 
-    import EditorGuider from './editor-guider'
+    import EditorGuider from './EditorGuider'
+    import Mover from '../utils/mover'
 
     export default {
         name: "MoveHelpLine",
-        comments: {
-            EditorGuider,
+        components: {
+            'editor-guilder' : EditorGuider,
         },
         data() {
             return {
@@ -41,7 +39,10 @@
                     left: 0,
                     width: 50,
                     height: 50,
-                }
+
+                },
+                layout:[],
+                container:{}
 
             }
         },
@@ -53,36 +54,38 @@
                     height: this.mover.height + 'px',
                     width: this.mover.width + 'px',
                 };
-            }
+            },
+            currentLayout: {
+                get() {
+                    return this.layout;
+                },
+                set(layout) {
+                    this.layout = layout;
+                }
+            },
+        },
+        mounted(){
+            new Mover('mover','editor-helper');
+            new Mover('mover1','editor-helper');
+            new Mover('mover2','editor-helper');
+            this.initlayout();
         },
         methods: {
-            down() {
-                this.isDown = true;
+            initlayout() {
+                this.container = document.querySelector('.movehelpline');
+                this.container.childNodes.forEach(node=>{
+                    this.layout.push(node)
+                })
             },
-            move(e) {
-                // if (!this.isDown) return;
-                const x = e.clientX;
-                const y = e.clientY;
-                const position = this.getBox(x,y);
-                this.mover.left = position.x;
-                this.mover.top = position.y;
-            },
-            up() {
-                this.isDown = false;
-            },
-
-            getBox(x,y) {
-                let movehelpline = document.querySelector('.movehelpline');
-                const mx = movehelpline.getBoundingClientRect().left;
-                const my = movehelpline.getBoundingClientRect().top;
+            getbox(node) {
+                let clientRects = node.getBoundingClientRect();
                 return {
-                    x : x - mx,
-                    y : y - my
-                }
-
-
-
-            }
+                    left: clientRects.left - this.container.getBoundingClientRect().left,
+                    top: clientRects.top - this.container.getBoundingClientRect().top,
+                    width : clientRects.width,
+                    height: clientRects.height
+                };
+            },
 
         }
     }
@@ -100,6 +103,21 @@
             position: absolute;
             width: 30px;
             height: 30px;
+            background-color: red;
+        }
+        .mover1 {
+            position: absolute;
+            width: 30px;
+            height: 30px;
+            left: 70px;
+            background-color: red;
+        }
+        .mover2 {
+            position: absolute;
+            width: 30px;
+            height: 30px;
+            left: 10px;
+            top : 40px;
             background-color: red;
         }
     }
