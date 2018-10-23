@@ -28,23 +28,39 @@
             });
             EventBus.$on('editor.guilder.move', (position,target)=> {
                 const self = this;
-                const opbox = this.getMid(this.getbox(target));
+                const opbox = this.getbox(target);
                 self.top = -10;
                 self.left = -10;
                 this.layout
                     .filter(item=>{
                         return item !== target
                     })
-                    .map(item => this.getMid(this.getbox(item)))
+                    .map(item => this.getbox(item))
                     .forEach(item =>{
-                        if((opbox.left - item.right) <= 10
-                        && (opbox.left - item.right) > 0){
-                            self.left = item.right;
-                            target.style.left = self.left+'px';
+                        const point = self.getClosePoint(opbox,item);
+                        if(self.left === -10 && point.left !== -10) {
+                            self.left = point.left; // 出现垂直线
+                            if(point.edgl === 0){
+                                target.style.left = self.left+'px';
+                            } else if (point.edgl === 1) {
+                                target.style.left = `${self.left - opbox.width/2}px`;
+
+                            } else if (point.edgl === 2) {
+                                target.style.left = `${self.left - opbox.width}px`;
+                            }
+                        }
+                        if(self.top === -10 && point.top !== -10) {
+                            self.top = point.top; // 出现水平线
+                            if(point.edgt === 0){
+                                target.style.top = self.top+'px';
+                            } else if (point.edgt === 1) {
+                                target.style.top = `${self.top - opbox.height/2}px`;
+
+                            } else if (point.edgt === 2) {
+                                target.style.top = `${self.top - opbox.height}px`;
+                            }
                         }
                     })
-
-                // console.log('过滤',filter);
             });
             EventBus.$on('editor.guilder.up', ()=> {
                 this.top = -10;
@@ -58,18 +74,54 @@
             }
         },
         methods:{
-            getMid(box){
-                const cal = {
-                    left : box.left,
-                    right:box.left + box.width,
-                    top : box.top,
-                    bottom: box.top + box.height,
-                    width : box.width,
-                    height: box.height,
-                    left_mid: box.left + (box.width / 2),
-                    top_mid: box.top + (box.height /2),
-                }
-                return cal;
+            getClosePoint(opbox, boxB) {
+                const opPoints = this.getPoints(opbox);
+                const bPoints = this.getPoints(boxB);
+
+                const ret = {
+                    left: -10,
+                    top: -10
+                };
+                opPoints.l.forEach((x1,i) => {
+                    bPoints.l.forEach((x2) => {
+                        if(Math.abs(x1 - x2) <= 3) {
+                            ret.left = x2;
+                            ret.edgl = i;
+                            return false;
+                        }
+                    });
+
+                    if(ret.left !== -10) {
+                        return false;
+                    }
+                });
+
+                opPoints.t.forEach( (x1,i) => {
+                    bPoints.t.forEach( (x2) => {
+                        if(Math.abs(x1 - x2) <= 3) {
+                            ret.top = x2;
+                            ret.edgt = i;
+                            return false;
+                        }
+                    });
+
+                    if(ret.top !== -10) {
+                        return false;
+                    }
+                });
+
+                return ret;
+            },
+            getPoints(bbox) {
+                const height = bbox.height;
+                const width = bbox.width;
+                const left = bbox.left;
+                const top = bbox.top;
+
+                return {
+                    t: [top, top + height / 2, top + height],
+                    l: [left, left + width / 2, left + width]
+                };
             },
             getbox(node) {
                 let clientRects = node.getBoundingClientRect();
@@ -85,7 +137,7 @@
             getlayout() {
                 let lays = [];
                 this.layout.forEach(layout=>{
-                    lays.push(this.getMid(layout));
+                    lays.push(this.getbox(layout));
                 });
                 return lays;
             },

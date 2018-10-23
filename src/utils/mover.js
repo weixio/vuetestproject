@@ -40,7 +40,7 @@ export default class Mover {
             const y = e.clientY;
             self.mover.style.left = self.beforeMoveBox.left*1 + (x - self.beforeMovePosition.x)+'px';
             self.mover.style.top = self.beforeMoveBox.top*1 + (y - self.beforeMovePosition.y)+'px';
-            EventBus.$emit('editor.guilder.move',self.getMousePosition(e),e.target);
+            EventBus.$emit('editor.guilder.move',self.getMousePosition(e),self.mover);
         }
         const mouseup = function(){
             self.isDown = false;
